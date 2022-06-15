@@ -1,6 +1,7 @@
 ## maps-sources
 
 
+### GuruMaps
 OSM France - 5 minute latency - [Android](https://github.com/sybenx/maps-sources/releases/download/v1/Map.OSM.France.ms) - iOS: copy and paste in browser: `guru://open?path=https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DHike%3D4umaps.ms`
 
 
