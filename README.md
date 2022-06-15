@@ -1,11 +1,11 @@
 ## maps-sources
 
 
-OSM France - [Android](https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DHike%3D4umaps.ms) - iOS: copy and paste in browser: `guru://open?path=https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DHike%3D4umaps.ms`
+OSM France - [Android](https://github.com/sybenx/maps-sources/releases/download/v1/Map.OSM.France.ms) - iOS: copy and paste in browser: `guru://open?path=https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DHike%3D4umaps.ms`
 
-OSM Germany - [Android](https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DMap%3DOSM%20Germany.ms) - iOS: copy and paste in browser: `guru://open?path=https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DMap%3DOSM%20Germany.ms`
+OSM Germany - [Android](https://github.com/sybenx/maps-sources/releases/download/v1/Map.OSM.Germany.ms) - iOS: copy and paste in browser: `guru://open?path=https://raw.githubusercontent.com/sybenx/maps-sources/main/GuruMaps/%3DMap%3DOSM%20Germany.ms`
 
-HERE Hybrid - [Android](https://github.com/sybenx/maps-sources/raw/main/GuruMaps/%3DSatellites%3DHere%20Hybrid.ms) - iOS: copy and paste in browser: `guru://open?path=https://github.com/sybenx/maps-sources/raw/main/GuruMaps/%3DSatellites%3DHere%20Hybrid.ms`
+HERE Hybrid - [Android](https://github.com/sybenx/maps-sources/releases/download/v1/Satellites.Here.Hybrid.ms) - iOS: copy and paste in browser: `guru://open?path=https://github.com/sybenx/maps-sources/raw/main/GuruMaps/%3DSatellites%3DHere%20Hybrid.ms`
 
 
 ### iD Custom Sources
